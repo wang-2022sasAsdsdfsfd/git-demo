@@ -11,5 +11,8 @@ hello git!  hello WangChang
 hello git!  hello WangChang
 hello git!  hello WangChang   
 hello git!  hello WangChang
-hello git!  hello WangChang    master test
+hello git!  hello WangChang  master test
 hello git!  hello WangChang  
+hello git!  hello WangChang
+hello git!  hello WangChang   
+hello git!  hello WangChang  hot-fix test
